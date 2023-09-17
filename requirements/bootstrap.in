@@ -1,0 +1,5 @@
+pip-tools~=7.1
+pip~=23.2
+setuptools-scm[toml]~=7.1
+setuptools~=68.0
+wheel~=0.41

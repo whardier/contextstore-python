@@ -1,0 +1,9 @@
+build[virtualenv]~=0.10
+twine~=4.0
+
+# ./.venv/lib/python3.10/site-packages/keyring-24.2.0.dist-info/METADATA
+#   Requires-Dist: SecretStorage (>=3.2) ; sys_platform == "linux"
+#   Requires-Dist: jeepney (>=0.4.2) ; sys_platform == "linux"
+keyring~=24.2
+secretstorage>=3.2
+jeepney>=0.4.2

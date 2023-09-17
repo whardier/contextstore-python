@@ -1,0 +1,10 @@
+cachetools~=5.3
+exceptiongroup~=1.1
+gitpython~=3.1
+pydantic~=1.10
+pyyaml~=6.0
+requests~=2.31
+tenacity~=8.2
+typeguard~=4.1
+urllib3~=1.26
+yarl~=1.9
